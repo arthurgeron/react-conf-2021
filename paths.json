@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@types/*": ["./src/types/*"],
+      "@types": ["./src/types"],
+      "@hooks/*": ["./src/hooks/*"],
+      "@hooks": ["./src/hooks"],
+      "@constants/*": ["./src/constants/*"],
+      "@constants": ["./src/constants"],
+      "@components/*": ["./src/components/*"],
+      "@components": ["./src/components"],
+      "@contexts/*": ["./src/contexts/*"],
+      "@contexts": ["./src/contexts"]
+    }
+  }
+}
